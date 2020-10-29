@@ -18,7 +18,7 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 * **Yu-Chao Gu**, Li-Juan Wang, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu. "Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 
 # Honors and Awards
-* National Scholarship (RMB &yen; 8,000). <br> Beijing University of Chemical Technology. 2018.
+* National Scholarship (RMB &yen; 8,000). Beijing University of Chemical Technology. 2018.
 
 # Activity and Service
 Reviewer for TCSVT, TIP.
