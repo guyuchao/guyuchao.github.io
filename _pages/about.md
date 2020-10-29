@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Yong Liu](https://iie-liuyong.github.io/) and Researcher Weiping Wang. <br>
-I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
+I am currently a second-year master student in the College of Computer Science, Nankai University, under the supervision of Professor [ Ming-Ming Cheng](https://mmcheng.net/cmm/).<br>
+I received my Bachelor's degree in Beijing University of Chemical Technology, China. 
 
 # Research
 My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
