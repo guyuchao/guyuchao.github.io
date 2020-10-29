@@ -9,3 +9,10 @@ author_profile: true
 In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**).<br>
 [[PDF]](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)
 [[Code]](https://github.com/guyuchao/PyramidCSA)
+
+* <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
+<b>Yu-Chao Gu</b>, Liu Yun, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
+Arxiv.<br>
+[[PDF]](https://arxiv.org/pdf/2010.00969)
+
+
