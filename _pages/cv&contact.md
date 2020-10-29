@@ -4,12 +4,12 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf)
+[English CV [PDF]](https://www.123.com)
 
-[Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf)
+[Chinese CV [PDF]](https://www.123.com)
 
 # Contact
-Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
-Beijing, 100093, China<br>
-Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
+College of Cyber Science, Nankai University<br>
+No.38, Tongyan Road, Jinnan District,
+Tianjin, 300350, China<br>
+Email: ycgu@mail.nankai.edu.cn
