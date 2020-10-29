@@ -15,7 +15,7 @@ My research interests mainly lie in **Efficient Deep Learning**, but also includ
 Indeed, my works focus on **generalization** analysis of those areas and building efficient  **frameworks** for various computer vision tasks.
 
 # Publications
-* "Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection."  <br>
+* Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection.  <br>
 **Yu-Chao Gu**, Li-Juan Wang, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu. <br> 
 Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 
