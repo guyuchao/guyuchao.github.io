@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Yu-Chao Gu"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
+name                     : &name "Yu-Chao Gu"
+description              : &description "Master student in Nankai University."
 url                      : https://guyuchao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guyuchao/guyuchao.github.io"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Yu-Chao Gu"
   avatar           : "avatar.png" # "jianli.jpg" #
   bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
   location         : "Beijing, China"
