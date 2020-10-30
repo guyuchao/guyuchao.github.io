@@ -12,7 +12,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br>
 
 * <b>Lightweight Salient Object Detection  via Hierarchical Visual Perception Learning</b>. <br>
 Yun Liu*, <b>Yu-Chao Gu*</b>, Xin-Yu Zhang*, Wei-Wei Wang, Ming-Ming Cheng.  <br>
-IEEE Transactions on Cybernetics, 2020.<br>
+IEEE Transactions on Cybernetics (**TCYB**), 2020.<br>
 [[PDF]]
 [[Code]]
 
