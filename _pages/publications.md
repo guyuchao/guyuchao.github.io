@@ -5,10 +5,16 @@ author_profile: true
 ---
 ## 2020
 * <b>Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection</b>. <br>
-<b>Yu-Chao Gu</b>, Li-Juan Wang, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu.  <br>
-In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**).<br>
+<b>Yu-Chao Gu*</b>, Li-Juan Wang*, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu.  <br>
+AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br>
 [[PDF]](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)
 [[Code]](https://github.com/guyuchao/PyramidCSA)
+
+* <b>Lightweight Salient Object Detection  via Hierarchical Visual Perception Learning</b>. <br>
+Yun Liu*, <b>Yu-Chao Gu*</b>, Xin-Yu Zhang*, Wei-Wei Wang, Ming-Ming Cheng.  <br>
+IEEE Transactions on Cybernetics, 2020.<br>
+[[PDF]]
+[[Code]]
 
 * <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
 <b>Yu-Chao Gu</b>, Liu Yun, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
