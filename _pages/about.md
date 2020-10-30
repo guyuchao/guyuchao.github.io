@@ -16,11 +16,11 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 
 # Publications
 * <b>Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection</b>. <br>
-<b>Yu-Chao Gu</b>, Li-Juan Wang, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu.  <br>
+<b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu.  <br>
 AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br>
 
 * <b>Lightweight Salient Object Detection  via Hierarchical Visual Perception Learning</b>. <br>
-Yun Liu, <b>Yu-Chao Gu</b>, Xin-Yu Zhang, Wei-Wei Wang, Ming-Ming Cheng.  <br>
+Yun Liu\*, <b>Yu-Chao Gu\*</b>, Xin-Yu Zhang\*, Wei-Wei Wang, Ming-Ming Cheng.  <br>
 IEEE Transactions on Cybernetics (**TCYB**), 2020.<br>
 
 # Honors and Awards
