@@ -17,7 +17,7 @@ IEEE Transactions on Cybernetics (**TCYB**), 2020.<br>
 [[Code]]
 
 * <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
-<b>Yu-Chao Gu</b>, Liu Yun, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
+<b>Yu-Chao Gu</b>, Li-Juan Wang\*, Liu Yun, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
 Arxiv.<br>
 [[PDF]](https://arxiv.org/pdf/2010.00969)
 
