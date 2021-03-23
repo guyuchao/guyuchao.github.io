@@ -3,6 +3,13 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+
+## 2021
+* <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
+<b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Yun Liu, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
+[[PDF]](https://arxiv.org/pdf/2010.00969)
+
 ## 2020
 * <b>Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection</b>. <br>
 <b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu.  <br>
@@ -16,9 +23,5 @@ IEEE Transactions on Cybernetics (**TCYB**), 2020.<br>
 [[PDF]]
 [[Code]]
 
-* <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
-<b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Yun Liu, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
-[[PDF]](https://arxiv.org/pdf/2010.00969)
 
 
