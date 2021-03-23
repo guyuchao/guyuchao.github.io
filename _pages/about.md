@@ -15,6 +15,10 @@ My research interests mainly lie in **Efficient Deep Learning**, but also includ
 Indeed, my works focus on **generalization** analysis of those areas and building efficient  **frameworks** for various computer vision tasks.
 
 # Publications
+* <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
+<b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Yun Liu, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
+
 * <b>Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection</b>. <br>
 <b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Zi-Qin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu.  <br>
 AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br>
@@ -23,9 +27,6 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br>
 Yun Liu\*, <b>Yu-Chao Gu\*</b>, Xin-Yu Zhang\*, Wei-Wei Wang, Ming-Ming Cheng.  <br>
 IEEE Transactions on Cybernetics (**TCYB**), 2020.<br>
 
-* <b>DOTS: Decoupling Operation and Topology in Differentiable Architecture Search</b>. <br>
-<b>Yu-Chao Gu\*</b>, Li-Juan Wang\*, Yun Liu, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng.  <br>
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
 
 # Honors and Awards
 * National Scholarship (RMB &yen; 8,000). Beijing University of Chemical Technology. 2018.
