@@ -29,7 +29,7 @@ IEEE Transactions on Cybernetics (**TCYB**), 2020.<br>
 
 
 # Honors and Awards
-* National Scholarship (RMB &yen; 8,000). Beijing University of Chemical Technology. 2018.
+* National Scholarship. Beijing University of Chemical Technology. 2018.
 
 # Activity and Service
 Reviewer for TCSVT, TIP.
