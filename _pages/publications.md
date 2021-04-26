@@ -10,6 +10,7 @@ author_profile: true
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
 [[PDF]](https://arxiv.org/pdf/2010.00969)
 [[Code]](https://github.com/guyuchao/DOTS)
+[[Poster]]
 
 ## 2020
 * <b>Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection</b>. <br>
@@ -17,6 +18,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
 AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br>
 [[PDF]](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)
 [[Code]](https://github.com/guyuchao/PyramidCSA)
+[[Poster]](https://github.com/guyuchao/guyuchao.github.io/blob/master/files/sources/AAAI20PCSA/aaai20poster.pptx)
 
 * <b>Lightweight Salient Object Detection  via Hierarchical Visual Perception Learning</b>. <br>
 Yun Liu\*, <b>Yu-Chao Gu\*</b>, Xin-Yu Zhang\*, Wei-Wei Wang, Ming-Ming Cheng.  <br>
