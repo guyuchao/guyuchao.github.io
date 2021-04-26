@@ -4,9 +4,9 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://www.123.com)
+[English CV [PDF]](https://github.com/guyuchao/guyuchao.github.io/blob/master/files/cv/NKU_master_YuChaoGu_CV.pdf)
 
-[Chinese CV [PDF]](https://www.123.com)
+[Chinese CV [PDF]](https://github.com/guyuchao/guyuchao.github.io/blob/master/files/cv/NKU_master_YuChaoGu_zhCV.pdf)
 
 # Contact
 College of Cyber Science, Nankai University<br>
