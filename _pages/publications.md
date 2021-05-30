@@ -12,7 +12,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br>
 [[Code]](https://github.com/guyuchao/DOTS)
 [[Poster]](https://github.com/guyuchao/DOTS)
 [[Video]](https://github.com/guyuchao/guyuchao.github.io/blob/master/files/sources/CVPR20DOTS/00805.mp4)
-[[Slide]](https://github.com/guyuchao/guyuchao.github.io/blob/master/files/sources/CVPR20DOTS/DOTS.pptx)
+[[Slides]](https://github.com/guyuchao/guyuchao.github.io/blob/master/files/sources/CVPR20DOTS/DOTS.pptx)
 
 ## 2020
 * <b>Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection</b>. <br>
